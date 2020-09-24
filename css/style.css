@@ -1,6 +1,7 @@
 /********** Base styles **********/
 * {
     box-sizing: border-box;
+    font-family: "new century schoolbook";
   }
   h1 {
     margin-bottom: 15px;
