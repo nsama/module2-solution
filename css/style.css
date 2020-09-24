@@ -1,8 +1,9 @@
 /********** Base styles **********/
 * {
     box-sizing: border-box;
-    font-family: "new century schoolbook";
+    
   }
+  body{font-family: Impact, Charcoal, sans-serif;}
   h1 {
     margin-bottom: 15px;
   }
