@@ -4,24 +4,27 @@
     
   }
   body{font-family: Impact, Charcoal, sans-serif;}
+
   h1 {
     margin-bottom: 15px;
   }
-  
+  #p1{background-color: #3d3c3c;}
   p {
     border: 1px solid green;
     background-color: #A52A2A;
     width: 90%;
-    height: 150px;
-    margin-right: auto;
+    height: 30px;
+    margin-right: 10px;
     margin-left: auto;
     font-family: Helvetica;
     color: white;
+    float: right;
   }
   
   /* Simple Responsive Framework. */
   .row {
     width: 100%;
+   
   }
   
   /********** Large devices only **********/
@@ -112,4 +115,6 @@
       width: 100%;
     }
   }
+
+  
   
